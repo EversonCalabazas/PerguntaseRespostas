@@ -2,6 +2,8 @@
 
 ## Projeto de perguntas e respostas utilizando as seguintes tecnologias:
 * NodeJS;
+* Express;
+* Sequelize;
 * Bootstrap;
 * EJS;
 * Mysql;
